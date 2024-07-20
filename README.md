@@ -1,2 +1,2 @@
-# python-projects-
-tic-tac-toc code 
+# python-projects
+My first attempt of making small projects.
